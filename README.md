@@ -54,8 +54,7 @@
 
 作成したら、下の行を書き換えて画像を表示させてください。
 
-![ヒストグラム](output/<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/d04a23a5-c8f0-43ee-bb64-14963d73bcb0" />
-)
+![ヒストグラム](output/histogram.png)
 
 **問い:** ヒストグラムの形から、このクラスの得点分布について分かることを書いてください。
 
